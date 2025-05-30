@@ -16,10 +16,6 @@ Programa feito com o propósito de gerar senhas seguras. <br/>
 
 <br>
 
-<p align="center">
-  <img alt="Gerador funcionando" src=".github/console.png" width="100%">
-</p>
-
 ---
 
 ## 🚀 Tecnologias
